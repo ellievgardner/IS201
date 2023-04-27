@@ -1,0 +1,81 @@
+ul{
+    font-size: 25px;
+    font-weight: normal;
+}
+
+ol{
+    font-size: 25px;
+    font-weight: normal;
+}
+
+#top{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.emphasizedText{
+    font-style: italic;
+    text-align: left;
+    color: grey;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+
+body{
+    background-color: rgba(193, 6, 6, 0.992);
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px solid white;
+    margin: 10px;
+    padding: 25px;
+    text-align: left;
+    font-size: 20px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 40px;
+    
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    align-items: center;
+    
+}
+
+ol{
+    list-style-position: outside;
+    font-size: 25px;
+    color: black;
+}
+
+ul{
+    list-style-position: outside;
+    font-size: 25px;
+    color: black;
+}
+
+.food-image{
+    margin-top: -1000px;
+}
+
+.home-image{
+    margin-top: -250px;
+}
